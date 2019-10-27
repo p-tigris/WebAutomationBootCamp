@@ -12,7 +12,7 @@
 
     <test name="Dropdown and MouseHover tests">
         <classes>
-            <class name=""/>
+            <class name="homepage.HomePage"/>
         </classes>
     </test>
 </suite>
